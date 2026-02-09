@@ -41,14 +41,5 @@ The goal of this lab was to understand how SOAR improves SOC efficiency by autom
 - Security Workflow Orchestration
 - Blue Team Operations
 
-## Screenshots
-
-Screenshots of workflow configuration and automation execution are available in the `/screenshots` folder.
-
-## Status
-
-Completed
-
----
 
 This lab is part of my continuous learning path toward becoming a SOC Analyst and Cybersecurity Specialist.
